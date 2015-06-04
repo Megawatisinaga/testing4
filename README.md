@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -23,3 +24,6 @@ afjfje
 =======
 afjfje
 >>>>>>> 6f69659a85c08a0430dfd3982d61ed7cefafc73c
+=======
+# testing4
+>>>>>>> e9f30aa585235fa4d8723472181c52e7243e19c4
